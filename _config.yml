@@ -1,14 +1,7 @@
 markdown: kramdown
-kramdown:
-  parse_block_html: true
-  coderay_line_numbers: nil
-pygments: true
-baseurl: /index.html
-repourl: squidnee/squidnee.github.io
-safe: false
-lsi: false
-pygments: true
-permalink: pretty
 paginate: 5
 paginate_path: "/site/page:num/"
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+
+title: Sydney Maples
+email: smaples@stanford.edu
+url: "http://sydneymaples.com"
