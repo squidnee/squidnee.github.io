@@ -1,7 +1,27 @@
----
-layout: post
----
-{% include header.html %}
+<!DOCTYPE html>
+<head>
+  <link href='http://fonts.googleapis.com/css?family=EB+Garamond|Cinzel+Decorative:400,700|Raleway|Marta' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/assets/stylesheets/main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  </head>
+
+<header class="header">
+  <nav id="nav">
+    <div id="nav-top"><a href="home.html">{{ page.title }}</a>
+      <div id="nav-hidden">
+        <a href="about.html">about.</a> - 
+        <a href="index.html">post archives.</a> - 
+        <a href="resume.html">cv.</a> - 
+        <a href="portfolio.html">creative work.</a> - 
+        <a href="projects.html">projects.</a> 
+      </div>
+    </nav>
+    <div id="triangle"></div>
+    <div></div>
+  </header>
+  </html>
 
 <ul>
   {% for post in site.posts %}
@@ -14,4 +34,20 @@ layout: post
   {% endfor %}
 </ul>
 
-{% include footer.html %}
+<footer class="footer">
+  
+</footer>
+
+<div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = '{{site.disqus_shortname}}';
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>

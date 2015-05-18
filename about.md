@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: about me
 ---
 
 I'm a current undergrad at Stanford University, majoring in Symbolic Systems. I like reading, writing, photography, coding, and thinking about people and their brains. I also like creating lists for obscure things that interest me.
