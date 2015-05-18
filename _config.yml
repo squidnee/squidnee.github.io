@@ -3,7 +3,7 @@ kramdown:
   parse_block_html: true
   coderay_line_numbers: nil
 pygments: true
-baseurl: /squidnee.github.io
+baseurl: /index.html
 repourl: squidnee/squidnee.github.io
 safe: false
 lsi: false
