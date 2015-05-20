@@ -81,8 +81,8 @@ a:hover {
 
 .post {
   padding: 30px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 .post hr {
@@ -98,15 +98,11 @@ a:hover {
 }
 
 #footermedia {
-  margin-left: 100px;
-  margin-right: 500px;
-  font-family: 'EB Garamond';
-  color: #90C7A8;
-  text-shadow: none;
+  
 }
 
 #footermedia strong {
-  color: #AA2F41;
+
 }
 
 footer {
