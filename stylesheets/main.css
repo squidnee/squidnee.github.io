@@ -1,5 +1,5 @@
 body{
-  background:#CDD0D4;
+  background:white;
   color: #686765;
   font-family: 'EB Garamond', 'Raleway', Verdana, sans-serif;
   font-size: 20px;
@@ -32,7 +32,7 @@ background: #550E52;
 #nav-hidden {
   display: block;
   width: 100%;
-  background: #550E52;
+  background: #B48375;
   color: #B48375;
   font-weight: bold;
   font-size: 12px;
