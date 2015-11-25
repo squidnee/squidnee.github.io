@@ -6,15 +6,6 @@ title: Sydney Maples
 email: smaples@stanford.edu
 url: "http://sydneymaples.com"
 
-jekyll-archives:
-	enabled:
-		- categories
-		- tags
-	layout: 'archive'
-	permalinks:
-		category: '/category/:name'
-		tag: '/tag/:name'
-
 social:
 	name: Github
 	icon: github
