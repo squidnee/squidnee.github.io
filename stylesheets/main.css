@@ -123,15 +123,6 @@ footer {
   font-size: 20px;
   text-align: center;
   font-family: 'Cinzel Decorative', Tahoma, sans-serif;
-  color: white;
-  text-shadow: 
-  1px 0px 1px #AA2F41, 0px 1px 1px #AA2F41, 
-  2px 1px 1px #AA2F41, 1px 2px 1px #AA2F41,
-  3px 2px 1px #ccc, 2px 3px 1px #AA2F41,
-  4px 3px 1px #ccc, 3px 4px 1px #AA2F41,
-  5px 4px 1px #ccc, 4px 5px 1px #AA2F41,
-  6px 5px 1px #ccc, 5px 6px 1px #AA2F41,
-  7px 6px 1px #ccc;
 }
 
 strong {
