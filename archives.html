@@ -11,7 +11,7 @@ title: post archives
         <hr></hr>
       </div>
       <p class="desc">
-      {{ post.content | strip_html | truncatewords: 50 }}
+      {{ post.content | split: '</p>' | first }}
       </p>
       {% endfor %}
     </ul>
