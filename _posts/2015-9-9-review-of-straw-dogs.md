@@ -3,8 +3,6 @@ layout: post
 title: review of // straw dogs - thoughts on humans & other animals //
 ---
 
-#Straw Dogs – Thoughts on Humans and Other Animals
-
 This was my introduction to contemporary political philosophy and liberal critique, and I ended up having mixed feelings about it. In Straw Dogs, John Gray sets out to unmask hypocrisy and irony in the liberal philosophy of ‘humanism’ by tracing its origins back to Christian ideology. He then makes the claim that the human compulsion to ‘act’ in order to ‘make progress’ is simply an illusion, and thus human progress itself is an illusion. He points out that the human ideals of ‘morality’ and ‘sense of self’ are also illusions, and that, by extension, humans are not inherently different from other animals.
 
 Gray begins by pointing out how both ‘religion’ and ‘science’ carry illusory properties that are not too far from each other philosophically. Both science and religion give the human species a fulfilling sense of “progression”, and this sense of progression is clung to in order to feel that life (and action) has meaning.  Furthermore, both fields have a tendency to censor thinkers who “stray too far from current orthodoxies” in order to preserve the comforting illusion of a “single established worldview” (Freud and Lovelock were cited here). The unorthodox thinkers who break into the mold are often the thinkers who carry the most political or rhetorical power (Galileo was cited here). Thus, advancements in science were no more based upon rational thought and the scientific method than were advancements in religion.

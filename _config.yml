@@ -2,6 +2,8 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/site/page:num/"
 
+excerpt_separator: "\n\n\n"
+
 title: Sydney Maples
 email: smaples@stanford.edu
 url: "http://sydneymaples.com"
