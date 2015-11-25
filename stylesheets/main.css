@@ -67,12 +67,12 @@ background: #550E52;
   font-size: 30px;
 }
 
-#post-title {
+.post-title {
   font-size: 50px;
   font-weight: bold;
 }
 
-#desc {
+.desc {
   font-size: 30px;
 }
 
