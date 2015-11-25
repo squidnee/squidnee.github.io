@@ -62,6 +62,16 @@ background: #550E52;
   border-top: 20px solid #B48375;
 }
 
+#archive {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#desc {
+  font-size: 30px;
+}
+
 .post h1 {
   color: #7E94B4;
   font-size: 50px;
