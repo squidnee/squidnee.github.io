@@ -64,6 +64,10 @@ background: #550E52;
 
 #archive {
   text-align: center;
+  font-size: 30px;
+}
+
+#post-title {
   font-size: 50px;
   font-weight: bold;
 }

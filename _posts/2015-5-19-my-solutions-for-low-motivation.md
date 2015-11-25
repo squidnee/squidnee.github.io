@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my solutions for low motivation
+title: My Solutions for Low Motivation
 ---
 
 I perceive the cognitive experience of life as an interesting assortment of methods and heuristics. In struggling with a life-long bout of ADHD, I have learned the following things about the cognition behind my sense of motivation:
