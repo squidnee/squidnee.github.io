@@ -62,18 +62,14 @@ background: #550E52;
   border-top: 20px solid #B48375;
 }
 
-#archive {
-  text-align: center;
-  font-size: 30px;
-}
-
 .post-title {
   font-size: 50px;
   font-weight: bold;
+  text-align: center;
 }
 
 .desc {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .post h1 {
