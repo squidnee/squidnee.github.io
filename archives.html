@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: post archives
 ---
 <!DOCTYPE html>
@@ -9,6 +9,20 @@ title: post archives
       <div>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
+      <p class="desc">
+      {{ post.content | split: '</p>' | first }}
+      </p>
       {% endfor %}
     </ul>
+
+  <div id="paginator">
+    {% if paginator.page > 1 %}
+    <a href="/page{{ paginator.previous_page }}">back</a>
+    {% endif %}
+
+    {% if paginator.page < paginator.total_pages %}
+    <a href="/page{{ paginator.next_page }}">next</a>
+    {% endif %}
+  </div>
+
   </div>
