@@ -5,32 +5,3 @@ paginate_path: "/site/page:num/"
 title: Sydney Maples
 email: smaples@stanford.edu
 url: "http://sydneymaples.com"
-
-social:
-	name: Github
-	icon: github
-	username: squidnee
-	url: https://github.com/squidnee
-	desc:
-	share: false
-
-	name: Facebook
-	icon: facebook
-	username: sydmaples
-	url: https://www.facebook.com/sydmaples
-	desc:
-	share: true
-
-	name: LinkedIn
-	icon: linkedin
-	username: Sydney Maples
-	url: https://www.linkedin.com/in/sydney-maples-41b50256
-	desc:
-	share: true
-
-	name: Instagram
-	icon: instagram
-	username: sydmaples
-	url:
-	desc:
-	share: true
