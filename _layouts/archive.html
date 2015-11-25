@@ -1,0 +1,42 @@
+<head>
+  <link href='http://fonts.googleapis.com/css?family=EB+Garamond|Cinzel+Decorative:400,700|Raleway|Marta' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="stylesheets/main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+ </head>
+
+ <div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+  <header class="header">
+  <nav id="nav">
+    <div id="nav-top"><a href="http://sydneymaples.com/index.html">{{ page.title }}</a>
+      <div id="nav-hidden">
+        <a href="http://sydneymaples.com/about.html">about.</a> - 
+        <a href="http://sydneymaples.com/archives.html">post archives.</a> - 
+        <a href="projects.html">projects.</a> 
+      </div>
+    </nav>
+    <div id="triangle"></div>
+    <div></div>
+  </header>
+    <h1 class="post-title">Posts in "{{ page.title | capitalize }}"</h1>
+  </header>
+
+  {% include page_divider.html %}
+
+  <article class="post-content">
+    <ul class="posts-list">
+      {% for post in page.posts %}
+      <li><strong><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span>
+      {{ post.excerpt }}
+      </li>
+      {% endfor %}
+    </ul>
+  </article>
+
+</div>
+</div>
+<br>
