@@ -6,25 +6,26 @@ title: post archives
   <div class="archive">
     <ul>
       {% for post in site.posts %}
+      {% assign total_paragraphs = post.content | split: '<p>' | size | minus: 1 %}
+      {% assign excerpt_paragraphs = post.excerpt | split: '<p>' | size | minus: 1 %}
+      {% assign remaining_paragraphs = total_paragraphs | minus: excerpt_paragraphs %}
       <div>
-        {% assign total_paragraphs = post.content | split: '<p>' | size | minus: 1 %}
-        {% assign excerpt_paragraphs = post.excerpt | split: '<p>' | size | minus: 1 %}
-        {% assign remaining_paragraphs = total_paragraphs | minus: excerpt_paragraphs %}
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
         <hr></hr>
       </div>
       <p class="desc">
       {{ post.content | split: '</p>' | first }}
       </p>
-      <a href=" {{post.url }}">
+      <a href="{{ post.url }}"><p>
       {% if remaining_paragraphs > 0 %}
       Read {{ remaining_paragraphs }} remaining paragraphs...
       {% else %}
       View post on separate page
       {% endif %}
-      </a>
+      </p></a>
       {% endfor %}
     </ul>
+     </div>
 
   <div id="paginator">
     {% if paginator.page > 1 %}
@@ -34,6 +35,4 @@ title: post archives
     {% if paginator.page < paginator.total_pages %}
     <a href="/page{{ paginator.next_page }}">next</a>
     {% endif %}
-  </div>
-
   </div>
