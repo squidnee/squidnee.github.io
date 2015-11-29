@@ -4,6 +4,7 @@ title: A Theoretical Analysis of ‘Spaciness’ (And Potential Solutions)
 ---
 
 Healthy introspection is a valuable process for me. I think that my underlying inclination towards introspection stems from the following set of beliefs:
+
 +	1. Thought processes (even complex ones) can be understood.
 +	This understanding comes through one’s willingness and ability to understand and sift through patterns.
 +	2. Once these patterns are understood, the mind itself can be understood, in both the self and in others.
@@ -39,5 +40,6 @@ Lastly, it is always good to speak out loud with others about what you are tryin
 As for the social spaciness I mentioned above…I don’t know if there’s a cure for that. Socializing is a strange enough process as it is. If you share that same sort of spaciness with me (and many people do, presumably moreso than the spaciness I just finished describing), then I think my solution would be to find a way to stop caring about how other people are feeling all the time. If you find such a solution, let me know.
 
 Footnotes:
+
 + <sup>[1]</sup> In this way, an unproved yet true philosophy is an ‘unconfirmed science’, whereas an unconfirmed yet inevitably untrue philosophy is ‘hogwash’. Though whether the latter truly exists in practice is something I have yet to ruminate over. Given that thoughts operate in patterns and cycles, do we ever really have thoughts that are simply ‘hogwash’, or from no meaningful basis whatsoever? Are we capable of operating in such a way?
 + <sup>[2]</sup> These are also known as ‘heuristics’, I think. I call them ‘feelings’ because, from my little ‘cerebral tower’, they have the same flavor to me as emotion-based feelings. But I’m also not sure how strong my emotion-based feelings are as a general rule, despite what I typically project outward. So your mileage may vary.
