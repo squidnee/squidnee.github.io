@@ -5,11 +5,11 @@ title: A Theoretical Analysis of ‘Spaciness’ (And Potential Solutions)
 
 Healthy introspection is a valuable process for me. I think that my underlying inclination towards introspection stems from the following set of beliefs:
 
-+	1. Thought processes (even complex ones) can be understood.
++	Thought processes (even complex ones) can be understood.
 +	This understanding comes through one’s willingness and ability to understand and sift through patterns.
-+	2. Once these patterns are understood, the mind itself can be understood, in both the self and in others.
-+	3. Once the mind is understood, we can leverage what we do not yet currently know about existing dynamic systems (particularly biological ones) in order to solve real-world problems in ways that are, by proxy, ahead of their time.
-+	4. By solving these problems in ways that are ahead of their time, we can achieve a better world for humanity during the ephemeral time period that humanity exists.
++	Once these patterns are understood, the mind itself can be understood, in both the self and in others.
++	Once the mind is understood, we can leverage what we do not yet currently know about existing dynamic systems (particularly biological ones) in order to solve real-world problems in ways that are, by proxy, ahead of their time.
++	By solving these problems in ways that are ahead of their time, we can achieve a better world for humanity during the ephemeral time period that humanity exists.
 
 Point #3 is due to the fortunate circumstance of inter-subjective similarity – namely, that people are far more similar than they are different -- and that neurologically region-specific variations and nuances do not dissuade from this overarching similarity. In fact, we rely on these similarities in order to make informed people-based decisions, because we are fundamentally under the assumption that people are similar in their patterns and inner complexities. The field of psychology relies on this in order to be a scientifically validated field, much like any scientifically valid field relies on some semblance of shared structure (which we call ‘proven facts’).
 
