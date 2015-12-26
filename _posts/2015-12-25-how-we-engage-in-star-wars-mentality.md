@@ -7,7 +7,7 @@ The other day, I watched the latest Star Wars movie with my father. It was a ver
 
 However, I see the Star Wars franchise as guilty of promoting a mentality that has troublesome implications. Given its status as a pop culture phenomenon, my hope is that I can use it as a framework to expand upon my vision for the world in a way that is (hopefully) useful and relevant.
 
-**The premise.**
+##The premise.
 The Star Wars ‘formula’ is as follows: first, you throw your audience into a world in which there are two sides that are fundamentally incompatible with each other. Remove all doubt and constraints as to which side is ‘good’ (the Light Side) and which side is ‘bad’ (the Dark Side) by making the latter side do everything for unarguably immoral reasons, typically pertaining to a self-serving amassing of power. On the other side, everything must be done for unarguably good reasons, such as the altruistic drive to protect the unfortunate, or one’s own family in the name of love. Those who oppose the Dark Side do so because they know it is the ‘right thing to do’, despite it being the difficult thing to do. Those who join the Dark Side are presumably too afraid of the instability that comes with fighting with the good team, or perhaps they find the power-hungry stance of the bad team compelling. Either way, both sides breed distinct, classifiable characters.
 
 This is a winning formula because it provides no cognitive dissonance. After all, it is never unclear that rooting for the ‘Light Side’ is the morally correct to make. There is no need for further analysis on the matter, and so one can sit back, relax, and imagine what it would be like to live in the shoes of the heroes, fighting passionately for wholeheartedly noble causes. In so doing, you’ve romanticized the idea of war, bravery, and the ability to do what’s right. You’ve been drawn to the idea of fighting for a just cause and being a worldly hero.
@@ -20,7 +20,7 @@ It lends itself to activism. We have people out there who crusade against rape, 
 
 These things are important. We see them as ‘good’. The way we go about doing them, however, is often unproductive.
 
-**The problem.**
+##The problem.
 In Star Wars, there is no timeout for analysis. In fact, war itself is fundamentally against analysis. When the bad team attacks, you attack back. It is reactionary, and if you question it, you risk losing your life. In Star Wars, you can do this because you understand that fighting for the good team is always the right thing to do, and that if the bad team were gone, all would be right in the world. Star Wars is careful not to contradict this notion.
 
 In real life, wars are not fought like this. Wars are made up of people who have deeply-rooted beliefs in the value of their own country, their own religions, and their own people. They see other countries as infringing upon what they believe is important. Their country bands together and rebels against this infringement, thus engaging in some sort of self-reinforcing cycle that justice is theirs for the taking, and that they are doing the right thing for the sake of their country. 
@@ -41,7 +41,7 @@ The second problem is that this lack of diversity in college campuses breeds som
 
 And what happens when other underrepresented belief systems are involved? If you are a Muslim immigrant, raised under the belief that your religion is what is right, and are forced into a country like America in which political leaders are resolute in their quest to make sure that you never enter in the first place on the basis of your beliefs, I see no reason why you wouldn’t see yourself as the Light Side fighting the Dark Side. Thus commence the Donald Trump / Darth Vader [comparison articles](http://www.theguardian.com/us-news/2015/dec/18/donald-trump-darth-vader-comparison). And thus commence radicalized individuals and groups who program themselves to fight the opposition before engaging in analysis. After all, once the Dark Side has been defined, you’re losing valuable lives in the time it takes to analyze.
 
-**The solution.**
+##The solution.
 If you can look past your opinion of Star Wars (and your opinion of me) to understand the message here, I am hoping that you see the problem. If you see the problem, I am hoping that you are considering whether or not you are contributing to the problem. If you are, then you are engaging in analysis. If you are engaging in analysis, you have thus engaged in the process of weighing multiple perspectives against each other (your own, and mine) in order to reconcile the two. Doing this is ‘truth seeking’. If done well, you will not not shove aside the matter before a compromise has been reached between the two perspectives. Thus, a greater path to truth will be made known to you.
 
 Now, if you continue to engage in analysis, you will replace your beliefs with truths. You will thus believe in the truth. The truth has no personal agenda, and seeks to harm no one. The only war it fights is the war against falsehood. It is the most literal ‘right and wrong’ that could possibly exist.
