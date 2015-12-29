@@ -1,37 +1,10 @@
-<!DOCTYPE html>
-<head>
-  <link href='http://fonts.googleapis.com/css?family=EB+Garamond|Cinzel+Decorative:400,700|Raleway|Marta' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="stylesheets/main.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
- </head>
-
-<header class="header">
-  <nav id="nav">
-    <div id="nav-top"><a href="http://sydneymaples.com/index.html">{{ page.title }}</a>
-      <div id="nav-hidden">
-        <a href="http://sydneymaples.com/about.html">about.</a> - 
-        <a href="http://sydneymaples.com/archives.html">post archives.</a> - 
-        <a href="projects.html">projects.</a> 
-      </div>
-    </nav>
-    <div id="triangle"></div>
-    <div></div>
-  </header>
+{% include head.html %}
 
 <body>
 <div class="post">
       {{ content }}
 </div>
 </body>
-<footer class="footer">
-  <br>
-  <div id='footermedia'><strong>Made by Sydney Maples.</strong> Stanford, California.
-  <br><a href='https://www.facebook.com/sydmaples'>facebook</a> || 
-  <a href='https://github.com/squidnee'>github</a> || 
-  <a href='https://www.linkedin.com/in/sydney-maples-41b50256'>linkedin</a> || 
-  <a href='https://www.goodreads.com/user/show/40582536-sydney-maples'>goodreads</a></div>
-</footer>
-</html>
+
+{% include foot.html %}
 

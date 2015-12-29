@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <link href='http://fonts.googleapis.com/css?family=EB+Garamond|Cinzel+Decorative:400,700|Raleway|Marta' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="/stylesheets/main.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  </head>
-
-<header class="header">
-  <nav id="nav">
-    <div id="nav-top"><a href="http://sydneymaples.com/index.html">posted on {{ page.date | date: "%-m/%-d/%Y" }}</a>
-      <div id="nav-hidden">
-        <a href="http://sydneymaples.com/about.html">about.</a> - 
-        <a href="http://sydneymaples.com/archives.html">post archives.</a> - 
-        <a href="projects.html">projects.</a> 
-      </div>
-    </nav>
-    <div id="triangle"></div>
-    <div></div>
-  </header>
-  </html>
+{% include head.html %}
 
 <ul>
       <div class= "post">
@@ -28,9 +7,7 @@
     </div>
 </ul>
 
-<footer class="footer">
-  
-</footer>
+{% include foot.html %}
 
 <div id="disqus_thread"></div>
       <script type="text/javascript">
