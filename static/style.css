@@ -1,0 +1,118 @@
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.node text {
+    font: 9px helvetica;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+d3-tip {
+    line-height: 1;
+    color: black;
+}
+
+svg {
+    <--background-image: url("/static/brain1.png");
+    background-size: 850px 630px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.graph {
+	align-content: center;
+}
+
+.sidebar h1 {
+	position: relative;
+	font-family: Georgia;
+}
+
+.sidebar ul {
+    font-family: Georgia;
+}
+
+.body {
+    align-content: center;
+}
+
+.button {
+	text-align: center;
+	border-top: 1px solid #f7bc97;
+	background: #d6a365;
+	background: -webkit-gradient(linear, left top, left bottom, from(#9c6f3e),
+		to(#d6a365) );
+	background: -webkit-linear-gradient(top, #9c6f3e, #d6a365);
+	background: -moz-linear-gradient(top, #9c6f3e, #d6a365);
+	background: -ms-linear-gradient(top, #9c6f3e, #d6a365);
+	background: -o-linear-gradient(top, #9c6f3e, #d6a365);
+	padding: 2px 5px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+	-moz-box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+	box-shadow: rgba(0, 0, 0, 1) 0 1px 0;
+	text-shadow: rgba(0, 0, 0, .4) 0 1px 0;
+	color: brown;
+	font-family: Georgia;
+}
+
+/* Outer */
+.popup, .popup-node {
+    width:100%;
+    height:100%;
+    display:none;
+    position:fixed;
+    top:0px;
+    left:0px;
+    background:rgba(0,0,0,0.75);
+}
+ 
+/* Inner */
+.popup-inner {
+    max-width:700px;
+    width:90%;
+    padding:40px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate(-50%, -50%);
+    transform:translate(-50%, -50%);
+    box-shadow:0px 2px 6px rgba(0,0,0,1);
+    border-radius:3px;
+    background:#fff;
+}
+ 
+/* Close Button */
+.popup-close {
+    width:30px;
+    height:30px;
+    padding-top:4px;
+    display:inline-block;
+    position:absolute;
+    top:0px;
+    right:0px;
+    transition:ease 0.25s all;
+    -webkit-transform:translate(50%, -50%);
+    transform:translate(50%, -50%);
+    border-radius:1000px;
+    background:rgba(0,0,0,0.8);
+    font-family:Arial, Sans-Serif;
+    font-size:20px;
+    text-align:center;
+    line-height:100%;
+    color:#fff;
+}
+ 
+.popup-close:hover {
+    -webkit-transform:translate(50%, -50%) rotate(180deg);
+    transform:translate(50%, -50%) rotate(180deg);
+    background:rgba(0,0,0,1);
+    text-decoration:none;
+}
