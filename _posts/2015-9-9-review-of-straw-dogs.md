@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Review of Straw Dogs - Thoughts on Humans and Other Animals
 ---
 

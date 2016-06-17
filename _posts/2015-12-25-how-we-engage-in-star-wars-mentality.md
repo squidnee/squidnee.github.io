@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How We Engage in the ‘Star Wars’ Mentality, And Why We Shouldn’t
 ---
 

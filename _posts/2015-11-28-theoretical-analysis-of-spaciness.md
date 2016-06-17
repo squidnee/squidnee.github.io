@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A Theoretical Analysis of ‘Spaciness’ (And Potential Solutions)
 ---
 
