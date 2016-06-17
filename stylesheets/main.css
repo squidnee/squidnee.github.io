@@ -6,19 +6,13 @@ body{
 }
 
 #nav-top a {
-  color: white;
+  color: #7E94B4;
   font-size:1.3em;
   line-height: 1.25em;
   text-decoration: none;
   opacity: 0.5;
   font-weight: bold;
 }
-
-#nav-top a:hover {
-  opacity: 1;
-}
- 
-#nav-top:hover { height: 50px; }
 
 #nav-content {
   float:left;
