@@ -1,11 +1,17 @@
 <header class="header">
-  <nav id="nav">
-    <div id="nav-top"><a href="http://sydneymaples.com/index.html">{{ page.title }}</a>
-      <div id="nav-content">
-        <a href="http://sydneymaples.com/about.html">about.</a> - 
-        <a href="http://sydneymaples.com/archives.html">post archives.</a> - 
-        <a href="http://sydneymaples.com/archives.html/projects.html">projects.</a> 
-      </div>
-    </nav>
-    <div></div>
-  </header>
+  <nav class="cd-stretchy-nav">
+    <a class="cd-nav-trigger" href="#0">
+      Menu
+      <span aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="http://sydneymaples.com" class="active"><span>home.</span></a></li>
+      <li><a href="http://sydneymaples.com/about.html" class="active"><span>about.</span></a></li>
+      <li><a href="http://sydneymaples.com/archives.html" class="active"><span>post archives.</span></a></li>
+      <li><a href="http://sydneymaples.com/projects.html" class="active"><span>projects.</span></a></li>
+    </ul>
+    <span aria-hidden="true" class="stretchy-nav-bg"></span>
+  </nav>
+</header>
+<script src="lib/jquery/jquery-2.1.4.js"></script>
+<script src="assets/js/stretchynav.js"></script>
