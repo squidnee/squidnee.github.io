@@ -3,7 +3,7 @@ layout: default
 title: about me
 ---
 
-<img src="/assets/img/self.png" style="float:left; margin:50px;"/>
+<img src="/img/self.png" style="float:left; margin:50px;"/>
 
 I am a student in the [Symbolic Systems](https://symsys.stanford.edu/ssp_description) program at Stanford University, where I work co-currently as a researcher and research assistant in the [Stanford Mood & Anxiety Disorders Laboratory](http://web.stanford.edu/group/mood/). I am also the photography director for a student publication called [MINT Magazine](https://issuu.com/mint_magazine) as well as the leader of the Technical Team for [CS + Mental Health](http://csplusmh.com/), a Stanford initiative that seeks to work alongside mental healthcare researchers and professionals in order to develop and deploy mental healthcare technology.
 

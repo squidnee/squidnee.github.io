@@ -13,10 +13,11 @@ collections:
   - lists
 
 defaults:
-  - scope:
-    path: ""
-    type: lists
-  values:
-    layout: list
+  - 
+    scope:
+      path: "lists"
+      type: "lists"
+    values:
+      layout: "list"
 
 future: true
