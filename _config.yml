@@ -9,4 +9,14 @@ title: Sydney Maples
 email: smaples@stanford.edu
 url: "http://sydneymaples.com"
 
+collections:
+  - lists
+
+defaults:
+  - scope:
+    path: ""
+    type: lists
+  values:
+    layout: list
+
 future: true

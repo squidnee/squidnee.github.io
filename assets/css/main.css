@@ -196,6 +196,12 @@ a:hover {
   text-align: center;
 }
 
+.list {
+  padding: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 .paginator {
   text-align: center;
 }
