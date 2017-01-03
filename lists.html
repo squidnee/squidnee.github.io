@@ -1,0 +1,12 @@
+---
+layout: default
+title: my lists
+---
+<!DOCTYPE html>
+<div class="recents">
+	{% for list in site.lists %}
+	<div>
+		<p class='front-page-title'><a href="{{ list.url }}">{{ list.title }}</a></p>
+	</div>
+	{% endfor %}
+</div>
